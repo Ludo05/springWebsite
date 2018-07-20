@@ -1,4 +1,4 @@
-package com.teamtreehouse.giflib.model;
+package com.lewis.giflib.model;
 
 import java.time.LocalDate;
 

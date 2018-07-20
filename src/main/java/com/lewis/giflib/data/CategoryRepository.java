@@ -1,6 +1,7 @@
 package com.lewis.giflib.data;
 
-import com.teamtreehouse.giflib.model.Category;
+
+import com.lewis.giflib.model.Category;
 import org.springframework.stereotype.Component;
 
 import java.util.Arrays;

@@ -1,4 +1,4 @@
-package com.teamtreehouse.giflib.model;
+package com.lewis.giflib.model;
 
 public class Category {
     private int id;

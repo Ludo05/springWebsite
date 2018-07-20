@@ -1,6 +1,6 @@
 package com.lewis.giflib.data;
 
-import com.teamtreehouse.giflib.model.Gif;
+import com.lewis.giflib.model.Gif;
 import org.springframework.stereotype.Component;
 
 import java.time.LocalDate;

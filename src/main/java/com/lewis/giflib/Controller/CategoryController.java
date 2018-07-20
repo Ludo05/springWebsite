@@ -2,8 +2,9 @@ package com.lewis.giflib.Controller;
 
 import com.lewis.giflib.data.CategoryRepository;
 import com.lewis.giflib.data.GifRepository;
-import com.teamtreehouse.giflib.model.Category;
-import com.teamtreehouse.giflib.model.Gif;
+
+import com.lewis.giflib.model.Category;
+import com.lewis.giflib.model.Gif;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.ModelMap;
